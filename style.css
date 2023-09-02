@@ -1,0 +1,14 @@
+*{
+    font-family:"Verdana", sans-serif;
+}
+
+
+
+.link {
+    color:white;
+    font-size:36px;
+}
+
+.a, a:visited, a:active, a:hover{
+    color: white !important;
+}
