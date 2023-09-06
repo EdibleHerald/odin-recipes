@@ -23,3 +23,8 @@ button{
     width:50px;
     height:auto;
 }
+
+#kitty{
+    margin:auto;
+    display:flex;
+}
